@@ -1,4 +1,4 @@
-package com.asiainfo.baas.marthon.entity;
+package com.asiainfo.baas.marathon.entity;
 
 import java.util.ArrayList;
 import java.util.List;

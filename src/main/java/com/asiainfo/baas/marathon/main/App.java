@@ -11,7 +11,7 @@ import org.glassfish.jersey.grizzly2.servlet.GrizzlyWebContainerFactory;
 import org.glassfish.jersey.server.ServerProperties;
 import org.glassfish.jersey.servlet.ServletContainer;
 
-import com.asiainfo.baas.marthon.ressouce.StudentResource;
+import com.asiainfo.baas.marathon.ressouce.StudentResource;
 
 
 /**

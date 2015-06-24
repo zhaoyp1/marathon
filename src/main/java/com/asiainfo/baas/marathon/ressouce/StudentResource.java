@@ -1,4 +1,4 @@
-package com.asiainfo.baas.marthon.ressouce;
+package com.asiainfo.baas.marathon.ressouce;
 
 import java.util.List;
 
@@ -11,7 +11,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.Context;
 
-import com.asiainfo.baas.marthon.entity.Student;
+import com.asiainfo.baas.marathon.entity.Student;
 
 
 @Singleton
